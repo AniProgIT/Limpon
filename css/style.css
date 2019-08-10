@@ -17,11 +17,29 @@ h1 {
     font-weight: 700;
     color: #6e7ea9;
     text-transform: uppercase;
+    text-align: center;
+    direction: ltr;
 }
 .btn-free {
     font-weight: 400;
     color: #ffffff;
     background-color: #1085e4;  
+}
+.btn-free2 {
+    font-weight: 700;
+    color: #ffffff;
+    background-color: #1085e4;  
+}
+.btn-free3 {
+    font-weight: 700;
+    color: #7e8bae;
+    background-color: #1085e4;  
+}
+.screen1 {
+    
+}
+.page-company {
+background: blue;
 }
 .grid h2{
     font-size: 40px;
@@ -46,3 +64,85 @@ h1 {
     color: #1085e4;
     text-transform: capitalize;
 }
+.name {
+    font-size: 14px;
+    font-weight: 400;
+    color: #1085e4;
+    }
+.name span{
+    font-size: 16px;
+    font-weight: 700;
+    color: #192b59;
+    }
+.subscribe2 h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #ffffff;
+}
+.subscribe2 h2 span{
+    font-size: 14px;
+    font-weight: 800;
+    color: #00bffe;
+    display: block;
+}
+.subscribe2 p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #dfe8ff;
+}
+.btn-subscribe2 {
+    font-weight: 700;
+    color: #ffffff;
+    background-color: #1085e4; 
+}
+.page-software{
+    text-align: right;
+}
+.page-software h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-software dt{
+    font-size: 16px;
+    font-weight: 700;
+    color: #5a6789;
+}
+.page-stat{
+    text-align: center;
+}
+.page-stat h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-stat h2 span{
+    font-size: 16px;
+    font-weight: 800;
+    color: #1085e4;
+    display: block;
+}
+.page-stat li {
+    font-size: 12px;
+    font-weight: 700;
+    color: #1085e4;
+}
+.page-stat li span{
+    font-size: 60px;
+    font-weight: 700;
+    color: #bacbdc;
+    display: block;
+}
+.page-app h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-appp{
+    font-size: 16px;
+    font-weight: 700;
+    color: #c4d2dd;
+}
+
+
+

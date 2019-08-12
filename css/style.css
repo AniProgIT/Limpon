@@ -143,6 +143,26 @@ background: blue;
     font-weight: 700;
     color: #c4d2dd;
 }
-
+.page-analytics h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-featutures_2 h2{
+    font-size: 50px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-screen h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-screen h2 span{
+    font-size: 18px;
+    font-weight: 800;
+    color: #1085e4;
+    display: block;
+}
 
 

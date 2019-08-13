@@ -34,10 +34,7 @@ h1 {
     font-weight: 700;
     color: #7e8bae;
     background-color: #1085e4;  
-}
-.screen1 {
-    
-}
+} 
 .page-company {
 background: blue;
 }
@@ -174,4 +171,26 @@ background: blue;
     font-weight: 800;
     color: #85c8ff;
     display: block; 
+}
+.page-plan h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-plan h2 span{
+    font-size: 18px;
+    font-weight: 800;
+    color: #1085e4;
+    display: block; 
+}
+.page-team h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: #ffffff;
+}
+.page-team h2 span{
+    font-size: 18px;
+    font-weight: 800;
+    color: #85c8ff;
+    display: block;  
 }

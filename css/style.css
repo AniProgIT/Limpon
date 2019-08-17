@@ -10,23 +10,35 @@ a {
 h1 {
     font-size: 80px;
     font-weight: 600;
+    letter-spacing: -2.5px;
     color: #192b59;
+    line-height: 1.1;
+    max-width: 600px;
+    margin-bottom: 65px;
+}
+.wrap{
+    max-width: 1110px;
+    margin: 0 auto;
 }
 .nav {
     font-size: 12px;
     font-weight: 700;
-    color: #6e7ea9;
     text-transform: uppercase;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    direction: ltr;
+    display: flex;
+}
+.nav li{
+    padding: 0 15px;
+}
+.nav-item{
+    color: #6e7ea9;
 }
 .navplan {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    direction: ltr;
 }
 .bth-primary {
     color: #fff;
@@ -70,7 +82,7 @@ h1 {
 }
 .btn-info:hover {
     color: #ffffff;
-    background-color: #ffffff;
+    background-color: #8085b1;
 }
 .btn-free {
     font-weight: 400;
@@ -159,16 +171,25 @@ background: blue;
     color: #1085e4;
     display: block;
 }
-.page-stat li {
+.list-stat{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+}
+.list-stat li {
     font-size: 12px;
     font-weight: 700;
     color: #1085e4;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2.7px;
 }
-.page-stat li span{
+.list-stat li span{
     font-size: 60px;
-    font-weight: 700;
     color: #bacbdc;
-    display: block;
+    display: block; 
+    margin-bottom: 23px;
+    letter-spacing: 0;
 }
 .page-app h2{
     font-size: 50px;
